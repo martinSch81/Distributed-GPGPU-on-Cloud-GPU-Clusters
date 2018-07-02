@@ -1,0 +1,4 @@
+mpi.*.hostfile
+output/*
+!output/dummy
+

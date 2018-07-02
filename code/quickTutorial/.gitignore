@@ -1,0 +1,15 @@
+01_singleVersion
+02_distributedVersion
+
+mpi.*hostfile
+
+*.out.master
+*.err.master
+*.csv
+
+graph*.dot
+graph*.png
+
+distribute
+restarting
+

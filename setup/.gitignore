@@ -1,0 +1,17 @@
+*.pem
+output/*
+!output/dummy
+CUDA/*
+!CUDA/downloadCUDA.sh
+OpenCL/*
+!OpenCL/downloadIntel-OpenCLRuntime.sh
+AMD/*
+!AMD/downloadAMD-sdk.sh
+
+keys/*.pem*
+keys/*.ppk*
+
+templates/*.template
+
+config.*
+!config.template.cfg

@@ -1,0 +1,16 @@
+sampleMMul
+sampleMMul-simple
+sampleCommunication
+libDistributedGPGPU.a
+
+mpi.*hostfile
+
+*.out.master
+*.err.master
+*.csv
+
+graph*.dot
+graph*.png
+
+distribute
+restarting

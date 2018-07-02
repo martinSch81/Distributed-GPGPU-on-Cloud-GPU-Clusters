@@ -1,0 +1,17 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "editor.tabCompletion": true,
+    "files.associations": {
+        "sstream": "cpp"
+    },
+    "cppcheck.lintingEnabled": true,
+    "cppcheck.severityLevels": {
+        "error": "Error",
+        "warning": "Warning",
+        "style": "Information",
+        "performance": "Information",
+        "portability": "Warning",
+        "information": "Information"
+    },
+    "latex-workshop.chktex.enabled": true
+}

@@ -1,0 +1,8 @@
+# one machine will host the master process and can additionally host worker processes:
+<YOUR HOSTNAME> slots=2
+# add as many additional instances as you want here. Additional workers will be launched on them.
+# cluster20 slots=1
+# cluster21 slots=1
+# cluster22 slots=1
+# cluster23 slots=1
+# cluster24 slots=1
