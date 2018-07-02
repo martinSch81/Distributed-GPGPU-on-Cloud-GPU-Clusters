@@ -254,3 +254,5 @@ cmake-build-debug/
 # for LaTeX
 /*.pdf
 !Schuchardt-GPGPU_on_Cloud_GPUs.pdf
+!Schuchardt-GPGPU_on_Cloud_GPUs-Quick_Tutorial.pdf
+

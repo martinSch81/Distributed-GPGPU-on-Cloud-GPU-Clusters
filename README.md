@@ -8,4 +8,4 @@ To prove the usability of the library, real applications that are distributable 
 
 Our work is open source (GNU GPLv3), we hope that it is helpful, your comments are welcome and we invite everyone to help develop it further.
 
-See Schuchardt-GPGPU_on_Cloud_GPUs.pdf for documentation.
+See Schuchardt-GPGPU_on_Cloud_GPUs.pdf for documentation and Schuchardt-GPGPU_on_Cloud_GPUs-Quick_Tutorial.pdf for an installation assistance.
