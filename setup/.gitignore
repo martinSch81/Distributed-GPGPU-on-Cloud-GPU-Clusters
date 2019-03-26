@@ -5,6 +5,7 @@ CUDA/*
 !CUDA/downloadCUDA.sh
 OpenCL/*
 !OpenCL/downloadIntel-OpenCLRuntime.sh
+!OpenCL/opencl_runtime_silent.cfg
 AMD/*
 !AMD/downloadAMD-sdk.sh
 
